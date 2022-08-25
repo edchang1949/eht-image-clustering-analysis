@@ -10,7 +10,9 @@ This project was initially started by previous undergraduate students Yuan Jea H
 Special thanks to Dr. Chi-Kwan Chan for providing me a research opportunity and advising me through the coding process.
 
 ## Summary
-These notebooks, separated into multiple steps, will read in EHT images from a folder, apply Principle Component Analysis (PCA) to the EHT image data to reduce dimensionality, cluster the images using one or multiple clustering algorithms, and provide ways of comparing the effectiveness and similarities between clustering using different algorithms. They are separated into steps using Joblib in Python to dump variables as files at the end of one notebook. These files are then loaded into another notebook to be used again.
+These notebooks, separated into multiple steps, will read in EHT images from a folder, apply Principle Component Analysis (PCA) to the EHT image data to reduce dimensionality, cluster the images using one or multiple clustering algorithms, and provide ways of comparing the effectiveness and similarities between clustering using different algorithms. 
+
+They are separated into steps using Joblib in Python to dump variables as files at the end of one notebook. These files are then loaded into another notebook to be used again. Having the notebooks work in multiple steps allows them to accomodate larger data sets and provides useful checkpoints for debugging.
 
 Clustering:
 The clustering portion of the notebook is meant to be relatively easily expandable to include other clustering algorithms if needed in the future. By default, the notebooks include
