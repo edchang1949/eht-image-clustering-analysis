@@ -7,6 +7,8 @@ I worked on these notebooks as an undergraduate research project during the Summ
 # Acknowledgements
 This project was initially started by previous undergraduate students Yuan Jea Hew and Anthony Hsu. Hew was responsible for the initial version of the notebooks which performed the clustering using the K-means algorithm, and Hsu made contributions to improving the image alignment algorithms making it much easier to compare individual images.
 
+Special thanks to Dr. Chi-Kwan Chan for providing me a research opportunity and advising me through the coding process.
+
 # Summary
 These notebooks, separated into multiple steps, will read in EHT images from a folder, apply Principle Component Analysis (PCA) to the EHT image data to reduce dimensionality, cluster the images using one or multiple clustering algorithms, and provide ways of comparing the effectiveness and similarities between clustering using different algorithms. They are separated into steps using Joblib in Python to dump variables as files at the end of one notebook. These files are then loaded into another notebook to be used again.
 
