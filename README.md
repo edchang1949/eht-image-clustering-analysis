@@ -5,7 +5,7 @@ A set of Python Jupyter Notebooks for the comparison between different clusterin
 I worked on these notebooks as an undergraduate research project during the Summer of 2022. 
 
 # Acknowledgements
-This project was initially started by previous undergraduate students Yuan Jea Hew and Anthony Hsu. Hew was responsible for the initial version of the notebooks which performed the clustering using the K-means algorithm, and Hsu made contributions to improving the image alignment algorithms making it much easier to compare individual images.
+This project was initially started by previous undergraduate students Yuan Jea Hew and Anthony Hsu. Hew was responsible for the initial version of the notebooks which performed clustering using the K-means algorithm, and Hsu made contributions to improving the image alignment algorithms making it much easier to compare individual images.
 
 Special thanks to Dr. Chi-Kwan Chan for providing me a research opportunity and advising me through the coding process.
 
